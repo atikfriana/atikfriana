@@ -1,5 +1,5 @@
 # Hi 👋, I'm Atika Arifiana  
-A passionate Data Analyst & Business Intelligence Enthusiast  
+A passionate Data Analyst & Business Analyst Enthusiast  
 
 📌 **Currently Building** real-world projects in data analysis & visualization  
 📚 **Background** in Information Technology & Agribusiness  
