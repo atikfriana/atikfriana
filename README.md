@@ -21,17 +21,14 @@ A passionate Data Analyst & Business Intelligence Enthusiast
 
 ## 📂 Featured Projects
 
-- 📡 **5G Coverage & Expansion Analysis (Power BI + GeoPandas)**  
+- 📡 **5G Coverage & Expansion Analysis**  
   Mengidentifikasi wilayah dengan jangkauan sinyal rendah dan potensi ekspansi 5G di Indonesia
 
-- 🧠 **Public Sentiment Toward AI & Jobs (NLP)**  
+- 🧠 **Public Sentiment Toward AI & Jobs**  
   Analisis sentimen publik terhadap dampak AI pada pekerjaan manusia menggunakan data dari Twitter
 
-- 📊 **Sales Performance Dashboard**  
+- 📊 **Attention Span Analysis**  
   Dashboard interaktif untuk melacak performa penjualan, tren produk, dan kontribusi regional
-
-- 👥 **Customer Segmentation with K-Means**  
-  Klasterisasi pelanggan berdasarkan perilaku untuk strategi marketing yang lebih tepat sasaran
 
 
 ---
