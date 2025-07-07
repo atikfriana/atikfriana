@@ -1,48 +1,48 @@
 # Hi 👋, I'm Atika Arifiana  
-A passionate Data Analyst & Business Analyst Enthusiast  
+A passionate Data Analyst & Business Intelligence Enthusiast  
 
-📌 **Currently Building** real-world projects in data analysis & visualization  
-📚 **Background** in Information Technology & Agribusiness  
-💡 **Interested in** turning data into insights, dashboards, and business solutions  
-🎯 **Goal**: To become a professional Data Analyst and BI Specialist
+📌 **Currently Building** real-world projects in data analytics, dashboards & insights  
+🎓 **Background** in Information Technology  
+💡 **Interested in** transforming raw data into meaningful, actionable solutions  
+🎯 **Goal**: To become a professional Data Analyst & BI Specialist in tech or telecom
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Data Analysis**: Python (pandas, NumPy), Excel, Google Sheets  
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Databases**: MySQL, PostgreSQL, BigQuery  
-- **Business Tools**: Google Looker Studio, Microsoft Office, SQL  
-- **Languages**: SQL, Python, R (dasar)  
-- **Other**: Git & GitHub, Statistics, EDA, A/B Testing  
+- **Data Analysis**: Python, Excel, Google Sheets  
+- **Data Visualization**: Power BI, Tableau
+- **Databases**: MySQL
+- **Business Tools**: Google Looker Studio, Microsoft Office, Trello  
+- **Languages**: SQL, Python  
+- **Other**: Git & GitHub, Statistics, EDA, A/B Testing, Data Cleaning  
 
 ---
 
 ## 📂 Featured Projects
 
-- 📊 **Sales Dashboard in Power BI**  
-  Visualisasi interaktif untuk memantau penjualan, tren produk, dan performa wilayah
+- 📡 **5G Coverage & Expansion Analysis (Power BI + GeoPandas)**  
+  Mengidentifikasi wilayah dengan jangkauan sinyal rendah dan potensi ekspansi 5G di Indonesia
 
-- 📈 **Customer Segmentation using K-Means**  
-  Segmentasi pelanggan berbasis perilaku untuk targeting marketing lebih efisien
+- 🧠 **Public Sentiment Toward AI & Jobs (NLP)**  
+  Analisis sentimen publik terhadap dampak AI pada pekerjaan manusia menggunakan data dari Twitter
 
-- 📉 **Agribusiness Data Analysis (Academic)**  
-  Analisis produktivitas dan dampak kebijakan terhadap sektor perikanan budidaya
+- 📊 **Sales Performance Dashboard**  
+  Dashboard interaktif untuk melacak performa penjualan, tren produk, dan kontribusi regional
 
-- 📰 **Fake News Detection with NLP**  
-  Model klasifikasi berita hoax menggunakan TF-IDF dan Naive Bayes
+- 👥 **Customer Segmentation with K-Means**  
+  Klasterisasi pelanggan berdasarkan perilaku untuk strategi marketing yang lebih tepat sasaran
 
-> Lihat semua di portofolio saya: [bit.ly/PortfolioAtikaArifiana](https://bit.ly/PortfolioAtikaArifiana)
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Google Data Analytics Professional (Coursera)  
+- ✅ Google Data Analytics Professional Certificate (Coursera)  
 - ✅ Dicoding — Belajar Analisis Data dengan Python  
-- ✅ Vokasioner Innovator Academy 2024 — Top 10 Awardee  
+- ✅ Vokasioner Innovator Academy 2024 — Top 10 Finalist  
 - ✅ AI for Everyone — Andrew Ng (Coursera)  
+- ✅ Power BI Dashboard (MySkill)  
 
 ---
 
