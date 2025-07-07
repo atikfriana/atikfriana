@@ -21,14 +21,14 @@ A passionate Data Analyst & Business Intelligence Enthusiast
 
 ## 📂 Featured Projects
 
+- 📊 **Digital Wellbeing Analysis**  
+  Analisis pengaruh konten video pendek terhadap fokus, produktivitas, dan attention span pengguna berbasis data survei
+
 - 📡 **5G Coverage & Expansion Analysis**  
-  Mengidentifikasi wilayah dengan jangkauan sinyal rendah dan potensi ekspansi 5G di Indonesia
-
+  Mengidentifikasi wilayah dengan jangkauan sinyal rendah dan potensi ekspansi 5G
+  
 - 🧠 **Public Sentiment Toward AI & Jobs**  
-  Analisis sentimen publik terhadap dampak AI pada pekerjaan manusia menggunakan data dari Twitter
-
-- 📊 **Attention Span Analysis**  
-  Dashboard interaktif untuk melacak performa penjualan, tren produk, dan kontribusi regional
+  Analisis sentimen publik terhadap dampak AI pada pekerjaan manusia 
 
 
 ---
