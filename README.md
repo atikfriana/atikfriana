@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=atikfriana.atikfriana" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Atika+Arifiana!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00C851&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Atika+Arifiana!;" />
 </h1>
 
 <h3 align="center">A Passionate Data Analyst & Business Intelligence Enthusiast from Indonesia 🇮🇩</h3>
@@ -10,10 +10,10 @@
 
 <div align="center">
 
-🎯 I’m Atika, a data-driven learner focused on transforming raw information into real business value  
-📈 I explore data visualization, dashboard storytelling, and decision intelligence  
-🌱 Always learning from short-form data research to real-world dashboards  
-💡 Passionate about the intersection of data, design, and human behavior  
+🎯 Saya adalah Atika, seorang data-driven learner yang fokus mengubah informasi mentah menjadi insight nyata  
+📈 Saya eksplorasi visualisasi data, storytelling dashboard, dan decision intelligence  
+🌱 Selalu belajar dari riset berbasis data hingga proyek real-world  
+💡 Tertarik dengan persimpangan antara data, desain, dan perilaku manusia  
 
 </div>
 
@@ -44,9 +44,8 @@
 
 ✅ Google Data Analytics Professional Certificate  
 ✅ Dicoding — Belajar Analisis Data dengan Python  
-✅ Vokasioner Innovator Academy 2024 — Top 10 Finalist  
 ✅ MySkill — Power BI Dashboard & Data Analysis  
-✅ AI for Everyone — Andrew Ng (Coursera)
+✅ Coursera — AI for Everyone
 
 ---
 
@@ -59,7 +58,7 @@
   <a href="https://linkedin.com/in/atika-arifiana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bit.ly/PortfolioAtikaArifiana" target="_blank">
+  <a href="https://www.behance.net/gallery/230035189/Portfolio-Atika-Fitria-Arifiana" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://github.com/atikfriana" target="_blank">
@@ -69,21 +68,13 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=atikfriana&count_private=true&theme=radical&border_radius=10" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=atikfriana&show_icons=true&count_private=true&theme=radical&border_radius=10" />
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikfriana&layout=compact&langs_count=8&theme=radical&border_radius=10" />
-</div>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/atikfriana/atikfriana/blob/output/github-snake.svg" />
 </div>
 
 ---
