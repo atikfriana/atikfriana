@@ -29,14 +29,14 @@
 
 ## 📂 Featured Projects
 
-- 📊 **Digital Wellbeing Analysis**  
-  Analisis dampak konten video pendek terhadap fokus, produktivitas, dan mental health (Power BI + Python)
+* 📊 [**Digital Wellbeing Analysis**](https://github.com/atikfriana/digital-wellbeing-analysis)
+  Saya menganalisis dampak konsumsi konten video pendek terhadap fokus, produktivitas, dan mental health dengan Power BI & Python.
 
-- 📡 **5G Coverage & Network Slicing Simulation**  
-  Simulasi BTS, client, dan slice di jaringan 5G untuk efisiensi alokasi sumber daya
+* 📡 [**5G Coverage & Network Slicing Simulation**](https://github.com/atikfriana/network-slicing-5g-python/tree/main)
+  Saya menyimulasikan BTS, client, dan slice untuk mengevaluasi efisiensi alokasi sumber daya di jaringan 5G menggunakan Python.
 
-- 🧠 **Public Sentiment Toward AI & Jobs**  
-  Eksplorasi persepsi masyarakat terhadap dampak AI terhadap dunia kerja (NLTK + Matplotlib)
+* 🧠 [**Public Sentiment Toward AI & Jobs**](https://github.com/atikfriana/sentiment-ai-vs-jobs)
+  Saya mengeksplorasi persepsi publik terhadap dampak AI pada dunia kerja menggunakan analisis teks (NLTK + visualisasi Matplotlib).
 
 ---
 
