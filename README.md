@@ -12,7 +12,7 @@
 
 🎯 I’m Atika, a data-driven learner focused on transforming raw information into real business value  
 📈 I explore data visualization, dashboard storytelling, and decision intelligence  
-🌱 Always learning — from short-form data research to real-world dashboards  
+🌱 Always learning from short-form data research to real-world dashboards  
 💡 Passionate about the intersection of data, design, and human behavior  
 
 </div>
