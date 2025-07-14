@@ -12,8 +12,10 @@
 
 🎯 Halo, saya Atika!
 Mahasiswi Teknologi Informasi yang senang belajar dari data, cerita dari insight, dan dampak dari keputusan kecil yang tepat.
+
 Saya senang mengubah angka jadi visual yang bisa dipahami, membangun dashboard yang bercerita, dan menyederhanakan informasi kompleks jadi hal yang lebih manusiawi.
 Mengeksplorasi data, AI, dan sisi desain karena menurut saya, teknologi yang baik lahir dari perpaduan empati dan logika.
+
 Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan terbuka untuk belajar, kolaborasi, atau mengobrol tentang ide yang berdampak.
 
 </div>
