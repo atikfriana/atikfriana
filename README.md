@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=atikfriana.atikfriana" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00C851&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Atika+Arifiana!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00C851&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Halo!+👋;+Saya+Atika+Arifiana!;" />
 </h1>
 
-<h3 align="center">A Passionate Data Analyst & Business Intelligence Enthusiast from Indonesia 🇮🇩</h3>
+<h3 align="center">Antusias di Bidang Data Analytics & Business Intelligence, Siap Berkontribusi</h3>
 
 <br/>
 
@@ -12,12 +12,9 @@
 
 🎯 Halo, saya Atika!
 Mahasiswi Teknologi Informasi yang senang belajar dari data, cerita dari insight, dan dampak dari keputusan kecil yang tepat.
-
-📊 Saya suka mengubah angka jadi visual yang bisa dipahami, membangun dashboard yang bercerita, dan menyederhanakan informasi kompleks jadi hal yang lebih manusiawi.
-
-🌱 Lagi eksplorasi terus tentang data, AI, dan sisi desain karena menurut saya, teknologi yang baik lahir dari perpaduan empati dan logika.
-
-🚀 Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan terbuka untuk belajar, kolaborasi, atau mengobrol tentang ide yang berdampak.
+Saya senang mengubah angka jadi visual yang bisa dipahami, membangun dashboard yang bercerita, dan menyederhanakan informasi kompleks jadi hal yang lebih manusiawi.
+Mengeksplorasi data, AI, dan sisi desain karena menurut saya, teknologi yang baik lahir dari perpaduan empati dan logika.
+Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan terbuka untuk belajar, kolaborasi, atau mengobrol tentang ide yang berdampak.
 
 </div>
 
