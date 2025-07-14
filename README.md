@@ -22,7 +22,11 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,excel,powerbi,tableau,mysql,github,vscode,figma,googleanalytics,trello,lookerstudio" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,tableau,github,vscode,figma" />
+  <br><br>
+  <img src="https://img.shields.io/badge/PowerBI-Data%20Viz-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-Task%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Looker%20Studio-Data%20Reporting-blue?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </div>
 
 ---
