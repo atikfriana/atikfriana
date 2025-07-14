@@ -10,10 +10,14 @@
 
 <div align="center">
 
-🎯 Saya adalah Atika, seorang data-driven learner yang fokus mengubah informasi mentah menjadi insight nyata  
-📈 Saya eksplorasi visualisasi data, storytelling dashboard, dan decision intelligence  
-🌱 Selalu belajar dari riset berbasis data hingga proyek real-world  
-💡 Tertarik dengan persimpangan antara data, desain, dan perilaku manusia  
+🎯 Halo, saya Atika!
+Mahasiswi Teknologi Informasi yang senang belajar dari data, cerita dari insight, dan dampak dari keputusan kecil yang tepat.
+
+📊 Saya suka mengubah angka jadi visual yang bisa dipahami, membangun dashboard yang bercerita, dan menyederhanakan informasi kompleks jadi hal yang lebih manusiawi.
+
+🌱 Lagi eksplorasi terus tentang data, AI, dan sisi desain karena menurut saya, teknologi yang baik lahir dari perpaduan empati dan logika.
+
+🚀 Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan terbuka untuk belajar, kolaborasi, atau mengobrol tentang ide yang berdampak.
 
 </div>
 
