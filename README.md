@@ -1,22 +1,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=atikfriana.atikfriana" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00C851&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Halo!+👋;+Saya+Atika+Arifiana!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00C851&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Halo!+👋;+Saya+Atika+Arifiana!;" />
 </h1>
 
-<h3 align="center">Antusias di Bidang Data Analytics & Business Intelligence, Siap Berkontribusi</h3>
+<h3 align="center">UI/UX Enthusiast · Data & Design Explorer · Future Innovator</h3>
 
 <br/>
 
 <div align="center">
 
-🎯 Halo, saya Atika!
-Mahasiswi Teknologi Informasi yang senang belajar dari data, cerita dari insight, dan dampak dari keputusan kecil yang tepat.
+🌱 Halo, saya Atika!  
+Mahasiswi Teknologi Informasi di Universitas Brawijaya yang percaya bahwa **teknologi terbaik lahir dari perpaduan empati, logika, dan desain yang berfungsi**.  
 
-Saya senang mengubah angka jadi visual yang bisa dipahami, membangun dashboard yang bercerita, dan menyederhanakan informasi kompleks jadi hal yang lebih manusiawi.
-Mengeksplorasi data, AI, dan sisi desain karena menurut saya, teknologi yang baik lahir dari perpaduan empati dan logika.
+Saya senang membangun **solusi digital yang berpusat pada manusia**:  
+- Dari **data analytics** → menemukan insight yang berarti.  
+- Dari **UI/UX design** → menciptakan pengalaman yang intuitif.  
+- Dari **kolaborasi** → menjadikan ide sederhana punya dampak nyata.  
 
-Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan terbuka untuk belajar, kolaborasi, atau mengobrol tentang ide yang berdampak.
+🚀 Saat ini saya sedang bersiap menjadi **Google Student Ambassador 2025**, peran yang memberi kesempatan untuk **menginspirasi mahasiswa lain, membangun komunitas, dan menjembatani inovasi teknologi dengan manfaat sosial**.  
+Saya percaya perjalanan ini sejalan dengan visi saya untuk terus belajar, berbagi, dan menciptakan solusi yang bermanfaat bagi banyak orang.  
 
 </div>
 
@@ -25,10 +28,10 @@ Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,figma,react,nextjs" />
   <br><br>
+  <img src="https://img.shields.io/badge/SwiftUI-Apple%20Ecosystem-black?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-Data%20Viz-yellow?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-Task%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Looker%20Studio-Data%20Reporting-blue?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </div>
 
@@ -36,14 +39,17 @@ Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan
 
 ## 📂 Featured Projects
 
-* 📊 [**Digital Wellbeing Analysis**](https://github.com/atikfriana/digital-wellbeing-analysis)
-  Saya menganalisis dampak konsumsi konten video pendek terhadap fokus, produktivitas, dan mental health dengan Power BI & Python.
+* 🎨 [**Ajar BudayaKu: Gamified Learning for Culture**](https://github.com/atikfriana/ajar-budayaku)  
+  Edukasi budaya lokal berbasis game design dan UI/UX untuk anak muda, fokus pada pelestarian budaya.
 
-* 📡 [**5G Coverage & Network Slicing Simulation**](https://github.com/atikfriana/network-slicing-5g-python/tree/main)
-  Saya menyimulasikan BTS, client, dan slice untuk mengevaluasi efisiensi alokasi sumber daya di jaringan 5G menggunakan Python.
+* 📊 [**Digital Wellbeing Analysis**](https://github.com/atikfriana/digital-wellbeing-analysis)  
+  Analisis dampak konsumsi konten video pendek terhadap fokus & produktivitas, divisualisasikan dengan Power BI & Python.
 
-* 🧠 [**Public Sentiment Toward AI & Jobs**](https://github.com/atikfriana/sentiment-ai-vs-jobs)
-  Saya mengeksplorasi persepsi publik terhadap dampak AI pada dunia kerja menggunakan analisis teks (NLTK + visualisasi Matplotlib).
+* 📡 [**5G Coverage & Network Slicing Simulation**](https://github.com/atikfriana/network-slicing-5g-python/tree/main)  
+  Simulasi BTS, client, dan slice untuk mengevaluasi efisiensi alokasi sumber daya di jaringan 5G.
+
+* 🧠 [**Public Sentiment Toward AI & Jobs**](https://github.com/atikfriana/sentiment-ai-vs-jobs)  
+  Eksplorasi persepsi publik terhadap dampak AI pada dunia kerja dengan analisis teks (NLTK + Matplotlib).
 
 ---
 
@@ -52,7 +58,7 @@ Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan
 ✅ Google Data Analytics Professional Certificate  
 ✅ Dicoding — Belajar Analisis Data dengan Python  
 ✅ MySkill — Power BI Dashboard & Data Analysis  
-✅ Coursera — AI for Everyone
+✅ Coursera — AI for Everyone  
 
 ---
 
@@ -86,4 +92,4 @@ Tertarik pada peran sebagai Data Analyst atau Project Manager di masa depan, dan
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to explore my projects, connect, or collaborate.*
+⭐️ *Thanks for stopping by! I’m always open to connect, collaborate, and explore ideas that combine technology, design, and social impact.*  
