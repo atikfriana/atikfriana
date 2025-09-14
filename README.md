@@ -13,10 +13,6 @@
 🌱 Halo, saya Atika!  
 Mahasiswi Teknologi Informasi di Universitas Brawijaya yang percaya bahwa **teknologi terbaik lahir dari perpaduan empati, logika, dan desain yang berfungsi**.  
 
-Saya senang membangun **solusi digital yang berpusat pada manusia**:  
-- Dari **data analytics** → menemukan insight yang berarti.  
-- Dari **UI/UX design** → menciptakan pengalaman yang intuitif.  
-- Dari **kolaborasi** → menjadikan ide sederhana punya dampak nyata.  
 
 🚀 Saat ini saya sedang bersiap menjadi **Google Student Ambassador 2025**, peran yang memberi kesempatan untuk **menginspirasi mahasiswa lain, membangun komunitas, dan menjembatani inovasi teknologi dengan manfaat sosial**.  
 Saya percaya perjalanan ini sejalan dengan visi saya untuk terus belajar, berbagi, dan menciptakan solusi yang bermanfaat bagi banyak orang.  
