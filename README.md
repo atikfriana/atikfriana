@@ -33,11 +33,6 @@ Saya percaya perjalanan ini sejalan dengan visi saya untuk terus belajar, berbag
 
 ---
 
-## Nice 🔥 aku bikinin draft **README showcase section** yang nyambung ke motivation letter kamu + GSA 2025, tapi dengan angle **frontend for impact & user experience**.
-Kamu bisa tempel ini langsung di bawah bagian **📂 Featured Projects** di GitHub kamu:
-
----
-
 ## 🎨 Featured Frontend Projects
 
 ✨ *Saya percaya bahwa teknologi terbaik lahir dari empati dan desain yang bekerja untuk manusia. Berikut beberapa project yang saya bangun dengan fokus pada frontend, interaktivitas, dan pengalaman pengguna:*
