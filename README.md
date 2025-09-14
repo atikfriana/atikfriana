@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00C851&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Halo!+👋;+Saya+Atika+Arifiana!;" />
 </h1>
 
-<h3 align="center">UI/UX Enthusiast · Data & Design Explorer · Future Innovator</h3>
+<h3 align="center">UI/UX Enthusiast · Web Developer Explorer · Future Innovator</h3>
 
 <br/>
 
@@ -37,28 +37,29 @@ Saya percaya perjalanan ini sejalan dengan visi saya untuk terus belajar, berbag
 
 ---
 
-## 📂 Featured Projects
-
-* 🎨 [**Ajar BudayaKu: Gamified Learning for Culture**](https://github.com/atikfriana/ajar-budayaku)  
-  Edukasi budaya lokal berbasis game design dan UI/UX untuk anak muda, fokus pada pelestarian budaya.
-
-* 📊 [**Digital Wellbeing Analysis**](https://github.com/atikfriana/digital-wellbeing-analysis)  
-  Analisis dampak konsumsi konten video pendek terhadap fokus & produktivitas, divisualisasikan dengan Power BI & Python.
-
-* 📡 [**5G Coverage & Network Slicing Simulation**](https://github.com/atikfriana/network-slicing-5g-python/tree/main)  
-  Simulasi BTS, client, dan slice untuk mengevaluasi efisiensi alokasi sumber daya di jaringan 5G.
-
-* 🧠 [**Public Sentiment Toward AI & Jobs**](https://github.com/atikfriana/sentiment-ai-vs-jobs)  
-  Eksplorasi persepsi publik terhadap dampak AI pada dunia kerja dengan analisis teks (NLTK + Matplotlib).
+## Nice 🔥 aku bikinin draft **README showcase section** yang nyambung ke motivation letter kamu + GSA 2025, tapi dengan angle **frontend for impact & user experience**.
+Kamu bisa tempel ini langsung di bawah bagian **📂 Featured Projects** di GitHub kamu:
 
 ---
 
-## 📜 Certifications
+## 🎨 Featured Frontend Projects
 
-✅ Google Data Analytics Professional Certificate  
-✅ Dicoding — Belajar Analisis Data dengan Python  
-✅ MySkill — Power BI Dashboard & Data Analysis  
-✅ Coursera — AI for Everyone  
+✨ *Saya percaya bahwa teknologi terbaik lahir dari empati dan desain yang bekerja untuk manusia. Berikut beberapa project yang saya bangun dengan fokus pada frontend, interaktivitas, dan pengalaman pengguna:*
+
+* 🍽️ [**Resto Reservation System**](https://github.com/atikfriana/resto-reservation-system)
+  Sistem reservasi restoran berbasis web dengan **TypeScript**, dirancang untuk pengalaman pengguna yang sederhana dan cepat. Fokus pada usability dalam proses booking & manajemen slot.
+
+* 🌐 [**Personal Portfolio Website**](https://github.com/atikfriana/portfolio)
+  Website portofolio interaktif yang menampilkan project & profil saya, dibangun dengan **JavaScript** dan prinsip UI modern. Proyek ini menjadi fondasi branding profesional saya.
+
+* 🎨 [**Laravel Portfolio**](https://github.com/atikfriana/laravel-portfolio)
+  Eksperimen memadukan **Laravel + Blade + Tailwind CSS** untuk membangun portofolio yang scalable, mobile-friendly, dan mudah dikustomisasi.
+
+* 📱 [**HealthyPet (Flutter App)**](https://github.com/atikfriana/mobile-flutter-healthypet)
+  Aplikasi mobile berbasis **Flutter** yang membantu pengguna memantau kesehatan hewan peliharaan. Fokus pada desain antarmuka yang intuitif & aksesibel.
+
+* 📚 [**Sistem Perpustakaan Digital**](https://github.com/atikfriana/Sistem-Perpustakaan-Digital-dengan-Laravel)
+  Aplikasi web dengan fitur autentikasi, peminjaman buku, dan riwayat transaksi. Dibangun dengan **Laravel & Blade**, proyek ini menekankan *user-friendly experience* untuk kebutuhan edukasi.
 
 ---
 
